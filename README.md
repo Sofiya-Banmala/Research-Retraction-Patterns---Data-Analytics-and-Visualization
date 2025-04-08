@@ -1,5 +1,3 @@
-# Research-Retraction-Patterns---Data-Analytics-and-Visualization
-
 # Uncovering Insights: A Data-Driven Examination of Research Retraction Patterns
 
 ## Overview
